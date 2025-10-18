@@ -81,7 +81,7 @@ Run tests:
 ```bash
 pytest test_einstein.py
 ```
-
+https://cs50.harvard.edu/python/psets/0/einstein/
 ---
 
 
